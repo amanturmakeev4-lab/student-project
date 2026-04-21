@@ -28,3 +28,5 @@ README.md — описание проекта
 
 изменение для develop
 
+Добавлен раздел login feature
+
