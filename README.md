@@ -30,3 +30,4 @@ README.md — описание проекта
 
 Добавлен раздел login feature
 
+добавлен раздел header feature
